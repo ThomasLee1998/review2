@@ -11,6 +11,10 @@
 #           6
 #           8
 # Who do we appreciate?
+myList=[2,4,6,8,"Who do we appreciate?"]
+
+for i in myList:
+    print i
 
 # Use a loop to complete this, either a for loop or a while loop.
 # Each time through the loop, print out either 2, 4, 6 or 8.
